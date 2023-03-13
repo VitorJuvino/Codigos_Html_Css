@@ -1,0 +1,223 @@
+
+#titulo {
+  background-color: rgb(62, 171, 171);
+  padding: 20px;
+  border-radius: 15px;
+  text-align: center;
+  margin: 1rem;
+}
+
+#titulo ul {
+  list-style: none;
+}
+
+#titulo li {
+  margin: 0.4rem;
+  display: inline-block;
+}
+
+#titulo a {
+  color: white;
+}
+
+#imagens {
+  background-color: rgb(62, 171, 171);
+  padding: 20px;
+  border-radius: 15px;
+  text-align: center;
+  margin: 1rem;
+}
+
+#imagens img {
+  border-radius: 15px;
+  margin: 1rem;
+}
+
+#fim {
+  background-color: rgb(62, 171, 171);
+  padding: 20px;
+  border-radius: 15px;
+  text-align: center;
+  margin: 1rem;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: white;
+}
+
+#fim a {
+  color: white;
+  text-decoration: none;
+}
+
+#desafio1 {
+  background-color: rgba(21, 184, 190, 0.479);
+  padding: 20px;
+  border-radius: 15px;
+  text-align: center;
+  margin: 1rem;
+}
+
+ h3 {
+  text-align: left;
+}
+
+table {
+  background-color: white;
+  border: 2px solid ;
+  border-radius: 15px;
+  padding: 20px;
+}
+
+.l1 {
+  border-bottom: 2px solid blue;
+}
+
+table td {
+  width: 800px;
+  height: 10px;
+}
+
+#t1 {
+  font-weight: bold;
+}
+
+#t2 {
+  font-weight: bold;
+}
+
+#desafio2 {
+  background-color: rgba(21, 184, 190, 0.479);
+  padding: 20px;
+  border-radius: 15px;
+  text-align: center;
+  margin: 1rem;
+}
+
+.a1 {
+  background-color: rgb(221, 193, 158);
+  height: 400px;
+  width: 95%;
+  border-bottom: solid 2px black;
+  border-right: solid 2px black;
+  border-top: solid 2px white;
+  border-left: solid 2px white;
+  margin: 1rem;
+}
+
+.a2 {
+  background-color: rgb(221, 193, 158);
+  height: 360px;
+  width: 94,8%;
+  border-bottom: solid 2px black;
+  border-right: solid 2px black;
+  border-top: solid 2px white;
+  border-left: solid 2px white;
+  margin: 1rem;
+}
+
+.a3 {
+  background-color: rgb(221, 193, 158);
+  height: 320px;
+  width: 94,5;
+  border-bottom: solid 2px black;
+  border-right: solid 2px black;
+  border-top: solid 2px white;
+  border-left: solid 2px white;
+  margin: 1rem;
+}
+
+.a4 {
+  background-color: rgb(221, 193, 158);
+  height: 280px;
+  width: 94,2%;
+  border-bottom: solid 2px black;
+  border-right: solid 2px black;
+  border-top: solid 2px white;
+  border-left: solid 2px white;
+  margin: 1rem;
+}
+
+.a5 {
+  background-color: rgb(221, 193, 158);
+  height: 240px;
+  width: 94,1%;
+  border-bottom: solid 2px black;
+  border-right: solid 2px black;
+  border-top: solid 2px white;
+  border-left: solid 2px white;
+  margin: 1rem;
+}
+
+.a6{
+  background-color: rgb(221, 193, 158);
+  height: 200px;
+  width: 94,1%;
+  border-bottom: solid 2px black;
+  border-right: solid 2px black;
+  border-top: solid 2px white;
+  border-left: solid 2px white;
+  margin: 1rem;
+}
+
+.centro{
+  background-color: rgb(238, 158, 59);
+  height: 160px;
+  width: 94,1%;
+  border-bottom: solid 2px black;
+  border-right: solid 2px black;
+  border-top: solid 2px white;
+  border-left: solid 2px white;
+  margin: 1rem;
+}
+
+.centro p {
+  margin-top: 50px;
+  font-size: 3rem;
+}
+
+#desafio3 {
+  background-color: rgba(21, 184, 190, 0.479);
+  padding: 20px;
+  border-radius: 15px;
+  text-align: center;
+  margin: 1rem;
+}
+
+.esquerda {
+  background-color: blue;
+  color: white;
+  border: solid 2px white;
+  width: 150px;
+}
+
+.divcentro {
+  background-color: brown;
+  color: white;
+  border: solid 2px white;
+  height: 40px;
+  width: 2000px;
+}
+
+.direita {
+  background-color: blueviolet;
+  color: white;
+  border: solid 2px white;
+  width: 150px;
+}
+
+#alinhamento {
+  display: flex;
+}
+
+#desafio4 {
+  background-color: rgba(21, 184, 190, 0.479);
+  padding: 20px;
+  border-radius: 15px;
+  text-align: center;
+  margin: 1rem;
+}
+
+iframe {
+  height: 100%;
+  width: 100%;
+}
+
