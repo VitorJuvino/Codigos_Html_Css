@@ -17,7 +17,7 @@
 }
 
 #cabecalho a {
-  color: white;
+  color: black
 }
 
 #imagens {
@@ -33,19 +33,19 @@
   margin: 1rem;
 }
 
-#redes-sociais {
+.contatos {
   background-color: rgb(62, 171, 171);
   padding: 20px;
-  border-radius: 15px;
-  text-align: center;
+  border-radius: 10px;
   margin: 1rem;
-  font-family: Georgia, 'Times New Roman', Times, serif;
-  color: white;
+  text-align: center;
 }
 
-#redes-sociais a {
-  color: white;
+.contatos a {
   text-decoration: none;
+  font-size: 20px;
+  margin-right: 30px;
+  color: black;
 }
 
 #desafio1 {
