@@ -1,5 +1,5 @@
 
-#titulo {
+#cabecalho {
   background-color: rgb(62, 171, 171);
   padding: 20px;
   border-radius: 15px;
@@ -7,16 +7,16 @@
   margin: 1rem;
 }
 
-#titulo ul {
+#cabecalho ul {
   list-style: none;
 }
 
-#titulo li {
+#cabecalho li {
   margin: 0.4rem;
   display: inline-block;
 }
 
-#titulo a {
+#cabecalho a {
   color: white;
 }
 
@@ -33,7 +33,7 @@
   margin: 1rem;
 }
 
-#fim {
+#redes-sociais {
   background-color: rgb(62, 171, 171);
   padding: 20px;
   border-radius: 15px;
@@ -43,7 +43,7 @@
   color: white;
 }
 
-#fim a {
+#redes-sociais a {
   color: white;
   text-decoration: none;
 }
