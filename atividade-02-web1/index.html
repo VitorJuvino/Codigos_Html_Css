@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="./index.js"></script>
+    <link rel="stylesheet" href="styles.css">
+    <title>Desafio Tabela</title>
+</head>
+  <!-- Adicionando dados a uma tabela html com javascript-->
+<body>
+
+    <h1> Dados da minha Tabela </h1>
+
+    <div class="texto">
+
+        <h2>Texto</h2>
+
+        <input type="text" placeholder="Digite aqui" id="nome" onfocus="this.value='';"> <!-- onfocus para limpar-->
+
+        <button id="but_add" onclick="adicionar()">Adicionar</button>
+
+    </div>
+
+    <div class="exibir">
+        <h2>Lista</h2>
+        
+        <ul>
+            <li>
+                <p id="lista"></p>
+            </li>
+        </ul>
+        
+    </div>
+
+</body>
+</html>

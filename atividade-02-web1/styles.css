@@ -1,0 +1,47 @@
+
+body {
+    text-align: center;
+    background-color: rgb(145, 180, 226);
+}
+
+.texto {
+    border: solid 2px ;
+    padding: 10px;
+    border-radius: 10px;
+    display: flex;
+    margin: 20px;
+}
+
+#nome {
+    margin: 15px;
+    width: 85%;
+    border-radius: 10px;
+}
+
+#but_add {
+    margin: 15px;
+    border: solid 2px;
+    background-color: rgb(145, 180, 226);
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.7s;
+}
+
+#but_add:hover {
+    margin: 15px;
+    border: solid 2px;
+    background-color: rgb(19, 113, 236);
+    border-radius: 8px;
+}
+
+.exibir h2 {
+    text-align: center;
+}
+
+.exibir {
+    border: solid 2px;
+    margin: 20px;
+    border-radius: 10px;
+    text-align: left;
+    font-size: 25px;
+}
